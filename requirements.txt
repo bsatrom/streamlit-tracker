@@ -1,5 +1,5 @@
 altair
 pandas
 streamlit
-snowflake-connector-python==2.7.6
+snowflake-connector-python==3.0.2
 matplotlib
